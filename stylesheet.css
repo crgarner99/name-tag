@@ -1,0 +1,28 @@
+.box {
+  border-radius: 20px;
+  border: 2px solid red;
+  width: 400px;
+  height: 250px;
+}
+header {
+  background: red;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  padding: 2px;
+}
+.top {
+  text-align: center;
+  font-size: 60px;
+  color: white;
+  font-weight: bold;
+}
+.middle {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px;
+}
+.Name {
+  text-align: center;
+  margin: 20px;
+  font-size: 60px;
+}
